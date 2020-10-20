@@ -1,0 +1,14 @@
+
+
+simple html 5 with CSS, TS without using addtiona libraries. 
+
+deployed to GitHub.
+
+
+
+
+How - to - Start
+
+1. simple HTML UI
+2. Add formulaes to calculate repayments as per international standards.
+
